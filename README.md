@@ -45,6 +45,7 @@ Nope.
 
 ## Formats to support next:
 - `.stl` is next.
+- `.dae` (COLLADA) is likely after that.
 
 If you have any formats you would like to add or have me try to add, create an issue.
 
