@@ -13,11 +13,35 @@ REQUIRED FLAGS:
 ```
 
 ## Currently supported formats
+### formats
 There are no formats that are currently truely supported. I hope this will change in the future.
 
+### conversions
+Nope.
+
 ## Partially supported formats
-- `.obj` - WaveFront OBJ
-- `.3mf` - 3D Manufacturing Format
+### formats
+- `.obj` - WaveFront OBJ. Tags supported:
+  - `g` - saved in other formats as an empty body
+  - `v` - vertex
+  - `vt` - vertex texture coordinate
+  - `vn` - vertex normal
+  - `f` - face (triangular only)
+- `.3mf` - 3D Manufacturing Format. Data supported in 3dmodel.model:
+  - `vertex` - a vertex
+  - `trianlge` - a triangle
+
+### Almost perfect conversions
+- `obj` -> `3mf`
+  - Details lost:
+    - none
+  - Details gained:
+    - units (kinda)
+- `3mf` -> `obj`
+  - Details lost:
+    - units
+  - Detail gained:
+    - none
 
 ## Formats to support next:
 - `.stl` is next.
