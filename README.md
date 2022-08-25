@@ -50,3 +50,6 @@ If you have any formats you would like to add or have me try to add, create an i
 
 ## Things that need to be done:
 - clean up all of the code files
+
+## help needed!
+- I am at the end of my knowledge for converting `.obj`'s and `.3mf`s. Help would be appreciated!
