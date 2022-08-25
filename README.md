@@ -12,7 +12,10 @@ REQUIRED FLAGS:
     -o  Output file
 ```
 
-## Currently supported file types
+## Currently supported formats
+There are no formats that are currently truely supported. I hope this will change in the future.
+
+## Partially supported formats
 - `.obj` - WaveFront OBJ
 - `.3mf` - 3D Manufacturing Format
 
