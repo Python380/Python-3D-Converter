@@ -13,11 +13,13 @@ REQUIRED FLAGS:
 ```
 
 ## Currently supported file types
-### NOT ALL FILETYPES ARE SUPPORTED
 - `.obj` - WaveFront OBJ
 - `.3mf` - 3D Manufacturing Format
 
-## Roadmap:
+## Formats to support next:
 - `.stl` is next.
 
 If you have any formats you would like to add or have me try to add, create an issue.
+
+## Things that need to be done:
+- clean up all of the code files
