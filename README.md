@@ -1,4 +1,4 @@
-# TriConvert
+# Python 3D Converter
 Software to convert 3D file types
 
 ## Usage
